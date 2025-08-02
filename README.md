@@ -1,4 +1,4 @@
-# Health-chat-bot
+# MediQuery
 A friendly health chatbot that provides basic advice and information.
 iDagnose your health condition and then tells you about your diseases.
 Built using Python and machine learning (Random Forest & Decision Trees).
